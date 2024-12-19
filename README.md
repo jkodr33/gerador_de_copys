@@ -1,4 +1,4 @@
-Aplicativo Gerador com mais de 50 copys para vendas e idéias!!
+Aplicativo Gerador com mais de 50 copywrithings para vendas e idéias!!
 
 ![Gera_copywrithing](https://github.com/user-attachments/assets/4b59b77f-55af-4f70-8741-ed9ebab36a61)
 
