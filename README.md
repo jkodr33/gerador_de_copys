@@ -27,5 +27,5 @@ O aplicativo demo estará acima para fazer a instalação, testar e analisar com
 
 ⚠️AVISO!! é um aplicativo demo! não terá todas as copys
 Apenas 10 copys estarão disponíveis no aplicativo.
-Entrar em contato para obter o aplicativo completo.
+Entrar em contato para obter o Aplicativo completo + PDF com 80 copys + sua documentação com tutorial de edição e conversão.
 
