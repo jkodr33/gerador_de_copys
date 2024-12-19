@@ -2,7 +2,7 @@ Aplicativo Gerador com mais de 50 copys para vendas e idéias!!
 
 ![Gera_copywrithing](https://github.com/user-attachments/assets/4b59b77f-55af-4f70-8741-ed9ebab36a61)
 
-Aplicativo para Android e IOS desenvolvido com Flutter.
+Aplicativo para Android e IOS desenvolvido com Dart/Flutter.
 
 Demonstrações do aplicativo abaixo:
 
@@ -14,7 +14,7 @@ Demonstrações do aplicativo abaixo:
 
 - Demo 2
 
-![Captura de tela 2024-12-19 011012](https://github.com/user-attachments/assets/56e9c349-36d3-4525-8f98-e0265deb9726)
+![Captura de tela 2024-12-19 011136](https://github.com/user-attachments/assets/06afd6e7-cbc8-426a-bb1d-8480b0500646)
 
 - Demo 3
 
